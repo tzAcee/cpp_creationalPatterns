@@ -1,0 +1,18 @@
+Tokyo
+300000
+New York
+123123122
+Sao Paulo
+180000
+Mexico City
+12301230
+Osaka
+123901203
+Manila
+12309123
+Mumbai
+1020203095
+Delhi
+12305989
+Jakarta
+304920340

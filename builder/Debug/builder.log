@@ -1,0 +1,3 @@
+﻿  Facets.cpp
+F:\Projects\pluralsight_course\c++_creationalPatterns\builder\Facets.cpp(16,56): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  builder.vcxproj -> F:\Projects\pluralsight_course\c++_creationalPatterns\Debug\builder.exe
